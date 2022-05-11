@@ -26,7 +26,9 @@ hr {
   font-family: 'Marcellus', 'Merriweather', 'sans-serif';
   padding-top: .25rem;
 }
-
+.contact-page {
+  background: #333333;
+}
 .UCM-text-link {
   color: #F32424;
   font-weight: bold;

@@ -6,7 +6,32 @@ body {
 hr {
   background-color: #333333;
 }
+/* UCM Twirler Page */
 
+.UCM-Page {
+  background-color: #FBF9FA;
+  color: #00092C;
+}
+.UCM-title-lg {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bold;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #F32424;
+}
+
+.UCM-title-md {
+  color: #F32424;
+  font-weight: bold;
+  font-family: 'Marcellus', 'Merriweather', 'sans-serif';
+  padding-top: .25rem;
+}
+
+.UCM-text-link {
+  color: #F32424;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
 /* images */
 .img-md {
   width: 75%;
@@ -46,6 +71,9 @@ hr {
 }
 
 /* Containers */
+.table {
+  color: #333333;
+}
 .top-container, .middle-container {
   margin: auto;
   padding: 2rem;
@@ -134,8 +162,7 @@ hr {
 .h3-pnk {
   color: #FE83C6;
   font-weight: bold;
-  font-family: 'Sacramento', 'Yanone Kaffeesatz', 'Merriweather', 'sans-serif';
-  font-size: 3rem;
+  font-family: 'Marcellus', 'Merriweather', 'sans-serif';
   padding-top: .25rem;
 }
 

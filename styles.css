@@ -4,8 +4,15 @@ body {
 }
 
 hr {
-  background-color: #333333;
+  border-style: none;
+  border-top: 10px dotted;
+  width: 25%;
+  margin: 75px auto 75px auto;
+  border-color: #FA4EAB;
+  background-color: #FFF2F9;
+  opacity: .8;
 }
+
 /* UCM Twirler Page */
 
 .UCM-Page {
@@ -73,6 +80,10 @@ hr {
 }
 
 /* Containers */
+.md-blk-div{
+  width: 60%
+}
+
 .table {
   color: #333333;
 }

@@ -136,6 +136,10 @@ hr {
   margin-top: 2rem;
   padding-top: 1rem;
 }
+
+#routines {
+  margin-top: 3rem;
+}
 /* Navbar */
 
 .nav-item, .nav-link, .navbar-toggler-icon {
